@@ -23,16 +23,16 @@ The project uses structured tables that include the following
 
 SQL Queries and Business Questions
 
-1  RFM segmentation – score customers based on Recency, Frequency, and Monetary values  
-2  Cohort analysis – track user engagement over cohort months  
-3  Year-over-Year growth – analyze growth in revenue, customers, and orders  
-4  Next-best product – identify products frequently bought together using lift  
-5  Price elasticity – estimate sensitivity of revenue to discounts across categories  
-6  Contribution margin – calculate profit percentages by category and payment method  
-7  Seasonality index – monthly revenue to highlight above-trend periods  
-8  Churn prediction – classify customers as active, churning, or churned  
-9  High-value order alerts – flag orders above 90th percentile revenue with high discount  
-10 EMI utilization – measure the share of total revenue paid via EMI over time  
+- RFM segmentation – score customers based on Recency, Frequency, and Monetary values
+-  Cohort analysis – track user engagement over cohort months
+- Year-over-Year growth – analyze growth in revenue, customers, and orders
+-  Next-best product – identify products frequently bought together using lift  
+-  Price elasticity – estimate sensitivity of revenue to discounts across categories  
+-  Contribution margin – calculate profit percentages by category and payment method  
+-  Seasonality index – monthly revenue to highlight above-trend periods  
+-  Churn prediction – classify customers as active, churning, or churned  
+-  High-value order alerts – flag orders above 90th percentile revenue with high discount  
+- EMI utilization – measure the share of total revenue paid via EMI over time  
 
 Key Insights
 
